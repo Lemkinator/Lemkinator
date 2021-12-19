@@ -5,4 +5,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemkinator&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### <img src="https://github.com/Lemkinator/Lemkinator/main/cats.gif" width="50" height="50" />
+### <img src="https://github.com/Lemkinator/Lemkinator/blob/main/cats.gif" width="50" height="50" />
