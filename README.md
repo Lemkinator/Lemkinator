@@ -1,8 +1,3 @@
-Leonard Lemke 👋
-==============================
-
-- Study Plus Mathem.-Tech. Softwaredeveloper
-------------------------------------------
 
 *   🌍  Trossingen
 *   🖥️  [Website](http://lemkinator.com)
@@ -52,8 +47,11 @@ Leonard Lemke 👋
   <a href="http://www.github.com/lemkinator"><img src="https://activity-graph.herokuapp.com/graph?username=lemkinator&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   <a href="https://github.com/lemkinator" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemkinator&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" /></a>
   
+
 <b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/lemkinator/NAK-Buch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lemkinator&repo=NAK-Buch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
+ 
+ 
  
  ### Support Me
  
