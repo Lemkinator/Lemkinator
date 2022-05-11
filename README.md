@@ -1,3 +1,4 @@
+### <img align="right" src="https://github.com/Lemkinator/Lemkinator/blob/main/cats.gif" width="50" height="50" />
 
 *   🌍  Trossingen
 *   🖥️  [Website](http://lemkinator.com)
@@ -5,9 +6,6 @@
 *   🚀  Currently working on: [NAK Buch](http://github.com/Lemkinator/NAK-Buch)
 *   🧠  Learning: Kotlin
 *   🤝  Open to collaborating on interesting Projects
-
-
-### <img align="right" src="https://github.com/Lemkinator/Lemkinator/blob/main/cats.gif" width="50" height="50" />
 
 
 <a href="https://www.twitter.com/lemkinator" target="_blank" rel="noreferrer"><img
