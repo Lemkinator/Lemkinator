@@ -1,8 +1,8 @@
 ### <img align="right" src="https://github.com/Lemkinator/Lemkinator/blob/main/cats.gif" width="50" height="50" />
 
 *   🌍  Trossingen
-*   🖥️  [Website](http://lemkinator.com)
-*   ✉️  Contact: [leo@lemkinator.com](mailto:leo@lemkinator.com)
+*   🖥️  [Website](http://leonard-lemke.com)
+*   ✉️  Contact: [leo@leonard-lemke.com](mailto:leo@leonard-lemke.com)
 *   🚀  Currently working on: [NAK Buch](http://github.com/Lemkinator/NAK-Buch)
 *   🧠  Learning: Kotlin
 *   🤝  Open to collaborating on interesting Projects
