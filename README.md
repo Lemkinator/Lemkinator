@@ -1,4 +1,4 @@
-### <img align="right" src="https://github.com/Lemkinator/Lemkinator/blob/main/cats.gif" width="50" height="50" />
+<img align="right" src="https://github.com/Lemkinator/Lemkinator/blob/main/cats.gif" width="50" height="50" />
 
 *   🌍  Trossingen
 *   🖥️  [Website](http://leonard-lemke.com)
