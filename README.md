@@ -3,7 +3,7 @@
 *   🌍  Trossingen
 *   🖥️  [Website](http://leonard-lemke.com)
 *   ✉️  Contact: [leo@leonard-lemke.com](mailto:leo@leonard-lemke.com)
-*   🚀  Currently working on: [NAK Buch](http://github.com/Lemkinator/NAK-Buch)
+*   🚀  Currently working on: [Sudoku](http://github.com/Lemkinator/Sudoku)
 *   🧠  Learning: Kotlin
 *   🤝  Open to collaborating on interesting Projects
 
