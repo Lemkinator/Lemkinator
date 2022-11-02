@@ -1,3 +1,6 @@
+![github contribution grid snake animation](https://raw.githubusercontent.com/lemkinator/lemkinator/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/lemkinator/lemkinator/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <a href=#><img src="github-user-contribution.svg"></a>
 <img align="right" src="https://github.com/Lemkinator/Lemkinator/blob/main/cats.gif" width="50" height="50" />
 
