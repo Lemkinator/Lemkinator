@@ -1,3 +1,4 @@
+<a href=#><img src="contributions.svg"></a>
 <img align="right" src="https://github.com/Lemkinator/Lemkinator/blob/main/cats.gif" width="50" height="50" />
 
 *   🌍  Trossingen
@@ -37,6 +38,10 @@
   <a href="https://www.youtube.com/channel/UC5CaKmrLU7ztWt3al9o7FNQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
   <a href="https://www.twitch.tv/lemkinator5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
+
+### Visitor count
+
+<img src="https://profile-counter.glitch.me/lemkinator/count.svg" />
 
 ### GitHub Stats
 
