@@ -1,4 +1,4 @@
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="github-user-contribution.svg"></a>
 <img align="right" src="https://github.com/Lemkinator/Lemkinator/blob/main/cats.gif" width="50" height="50" />
 
 *   🌍  Trossingen
