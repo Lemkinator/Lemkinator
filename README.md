@@ -4,7 +4,7 @@
 
 
 *   🌍  Trossingen
-*   🖥️  [Website](https://leonard-lemke.com)
+*   🖥️  Website: [www.leonard-lemke.com](https://leonard-lemke.com)
 *   ✉️  Contact: [leo@leonard-lemke.com](mailto:leo@leonard-lemke.com)
 *   🚀  Currently working on: [Sudoku](http://github.com/Lemkinator/Sudoku)
 *   🧠  Learning: Kotlin
@@ -30,39 +30,49 @@
 </p>
 
 
-### Socials
-<p align="left">
-<a href="https://discord.com/users/lemkinator5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/Lemkinator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/leonard-lemke-201029238" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/lemkinator5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://stackoverflow.com/users/18332741/lemkinator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/lemkinator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/@leonardlemke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-<a href="https://www.twitch.tv/lemkinator5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-</p>
+### Apps
+<div>
+  <a href="https://github.com/Lemkinator/NAK-Buch" target="_blank" rel="noreferrer"><img title="NAK Buch - The new non-official song book app of the New Apostolic Church." alt="NAK Buch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/NAK_Buch_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/Studiportal" target="_blank" rel="noreferrer"><img title="Studiportal - The new Studiportal app with OneUI-Design" alt="Studiportal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Studiportal_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/Sudoku" target="_blank" rel="noreferrer"><img title="Sudoku - A Sudoku app with OneUI-Design." alt="Sudoku" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Sudoku_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/OneUI-Sample-App" target="_blank" rel="noreferrer"><img title="OneUI Sample App" alt="OneUI Sample App" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/OneUI_Sample_App_squircle.png" height="50"/></a>
+</div>
+
+### Links
+
+<div>
+  <a href="https://games.app.goo.gl/RjbHduvbNJRRpEhr8" target="_blank" rel="noreferrer"><img title="Google Play Store" alt="Google Play Store" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Google_Play_Store_squircle.png" height="50"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=4759149701353957861" target="_blank" rel="noreferrer"><img title="Google Play Spiele" alt="Google Play Spiele" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Google_Play_Spiele_squircle.png" height="50"/></a>
+  <a href="https://www.youtube.com/@leonardlemke" target="_blank" rel="noreferrer"><img title="YouTube" alt="YouTube" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/YouTube_squircle.png" height="50"/></a>
+  <a href="https://www.twitch.tv/lemkinator5" target="_blank" rel="noreferrer"><img title="Twitch" alt="Twitch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Twitch_squircle.png" height="50"/></a>
+  <a href="https://discord.com/users/lemkinator5" target="_blank" rel="noreferrer"><img title="Discord" alt="Discord" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Discord_squircle.png" height="50"/></a>
+  <a href="https://www.instagram.com/lemkinator5/" target="_blank" rel="noreferrer"><img title="Instagram" alt="Instagram" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Instagram_squircle.png" height="50"/></a>
+  <a href="https://www.linkedin.com/in/leonard-lemke-201029238" target="_blank" rel="noreferrer"><img title="LinkedIn" alt="LinkedIn" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/LinkedIn_squircle.png" height="50"/></a>
+  <a href="https://www.twitter.com/lemkinator" target="_blank" rel="noreferrer"><img title="Twitter" alt="Twitter" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Twitter_squircle.png" height="50"/></a>
+  <a href="https://www.paypal.me/lemkinator" target="_blank" rel="noreferrer"><img title="PayPal" alt="PayPal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/PayPal_squircle.png" height="50"/></a>
+  <a href="https://www.reddit.com/user/Lemkinator5" target="_blank" rel="noreferrer"><img title="Reddit" alt="Reddit" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Reddit_squircle.png" height="50"/></a>
+  <a href="https://www.github.com/Lemkinator" target="_blank" rel="noreferrer"><img title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/GitHub_squircle.png" height="50"/></a>
+  <a href="https://www.buymeacoffee.com/leonardlemke" target="_blank" rel="noreferrer"><img title="Buy Me a Coffee" alt="Buy Me a Coffee"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" /></a>
+</div>
+
+---
 
 ### GitHub Stats
 
+<a href="http://www.github.com/Lemkinator"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lemkinator&theme=react-dark&hide_border=true&radius=5" alt="GitHub Commits Graph" /></a>
 <a href="http://www.github.com/Lemkinator"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lemkinator&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lemkinator's GitHub stats" /></a>
 <a href="http://www.github.com/Lemkinator"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemkinator&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/Lemkinator"><img src="https://activity-graph.herokuapp.com/graph?username=Lemkinator&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Lemkinator" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lemkinator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Lemkinator"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lemkinator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Lemkinator"><img src="https://github-profile-trophy.vercel.app/?username=Lemkinator&theme=onedark&column=3&margin-w=20&margin-h=20" alt="Github Trophies" /></a>
 
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=Lemkinator&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/Lemkinator)
 
-<b>Top Repositories</b>
+### Top Repositories
 
-<div width="100%" align="center">
+<div>
   <a href="https://github.com/Lemkinator/nak-buch" align="left">
     <img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=nak-buch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-<a href="https://github.com/Lemkinator/sudoku" align="right">
-  <img align="right" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<a href="https://github.com/Lemkinator/sudoku" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
-
-<br><br><br><br><br><br><br>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/leonardlemke"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
