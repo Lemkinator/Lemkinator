@@ -1,7 +1,5 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/lemkinator/lemkinator/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/lemkinator/lemkinator/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-<img align="right" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/cats.gif" width="50" height="50" />
-
 
 *   🌍  Trossingen
 *   🖥️  Website: [www.leonard-lemke.com](https://leonard-lemke.com)
