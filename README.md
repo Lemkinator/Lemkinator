@@ -5,7 +5,7 @@
 *   🖥️  Website: [www.leonard-lemke.com](https://leonard-lemke.com)
 *   ✉️  Contact: [leo@leonard-lemke.com](mailto:leo@leonard-lemke.com)
 *   🚀  Currently working on: [Sudoku](http://github.com/Lemkinator/Sudoku)
-*   🧠  Learning: Kotlin
+*   🧠  Learning: [Kotlin](https://kotlinlang.org/)
 *   🤝  Open to collaborating on interesting Projects
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lemkinator.visitor-badge) <a href="https://www.github.com/lemkinator" target="_blank" rel="noreferrer"><img
@@ -30,26 +30,26 @@
 
 ### Apps
 <div>
-  <a href="https://github.com/Lemkinator/NAK-Buch" target="_blank" rel="noreferrer"><img title="NAK Buch - The new non-official song book app of the New Apostolic Church." alt="NAK Buch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/NAK_Buch_squircle.png" height="50"/></a>
-  <a href="https://github.com/Lemkinator/Studiportal" target="_blank" rel="noreferrer"><img title="Studiportal - The new Studiportal app with OneUI-Design" alt="Studiportal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Studiportal_squircle.png" height="50"/></a>
-  <a href="https://github.com/Lemkinator/Sudoku" target="_blank" rel="noreferrer"><img title="Sudoku - A Sudoku app with OneUI-Design." alt="Sudoku" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Sudoku_squircle.png" height="50"/></a>
-  <a href="https://github.com/Lemkinator/OneUI-Sample-App" target="_blank" rel="noreferrer"><img title="OneUI Sample App" alt="OneUI Sample App" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/OneUI_Sample_App_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/NAK-Buch" target="_blank" rel="noreferrer"><img title="NAK Buch - The new non-official song book app of the New Apostolic Church." alt="NAK Buch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/NAK_Buch_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/Studiportal" target="_blank" rel="noreferrer"><img title="Studiportal - The new Studiportal app with OneUI-Design" alt="Studiportal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Studiportal_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/Sudoku" target="_blank" rel="noreferrer"><img title="Sudoku - A Sudoku app with OneUI-Design." alt="Sudoku" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Sudoku_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/OneUI-Sample-App" target="_blank" rel="noreferrer"><img title="OneUI Sample App" alt="OneUI Sample App" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/OneUI_Sample_App_squircle.png" height="50"/></a>
 </div>
 
 ### Links
 
 <div>
-  <a href="https://games.app.goo.gl/RjbHduvbNJRRpEhr8" target="_blank" rel="noreferrer"><img title="Google Play Store" alt="Google Play Store" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Google_Play_Store_squircle.png" height="50"/></a>
-  <a href="https://play.google.com/store/apps/dev?id=4759149701353957861" target="_blank" rel="noreferrer"><img title="Google Play Spiele" alt="Google Play Spiele" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Google_Play_Spiele_squircle.png" height="50"/></a>
-  <a href="https://www.youtube.com/@leonardlemke" target="_blank" rel="noreferrer"><img title="YouTube" alt="YouTube" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/YouTube_squircle.png" height="50"/></a>
-  <a href="https://www.twitch.tv/lemkinator5" target="_blank" rel="noreferrer"><img title="Twitch" alt="Twitch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Twitch_squircle.png" height="50"/></a>
-  <a href="https://discord.com/users/lemkinator5" target="_blank" rel="noreferrer"><img title="Discord" alt="Discord" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Discord_squircle.png" height="50"/></a>
-  <a href="https://www.instagram.com/lemkinator5/" target="_blank" rel="noreferrer"><img title="Instagram" alt="Instagram" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Instagram_squircle.png" height="50"/></a>
-  <a href="https://www.linkedin.com/in/leonard-lemke-201029238" target="_blank" rel="noreferrer"><img title="LinkedIn" alt="LinkedIn" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/LinkedIn_squircle.png" height="50"/></a>
-  <a href="https://www.twitter.com/lemkinator" target="_blank" rel="noreferrer"><img title="Twitter" alt="Twitter" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Twitter_squircle.png" height="50"/></a>
-  <a href="https://www.paypal.me/lemkinator" target="_blank" rel="noreferrer"><img title="PayPal" alt="PayPal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/PayPal_squircle.png" height="50"/></a>
-  <a href="https://www.reddit.com/user/Lemkinator5" target="_blank" rel="noreferrer"><img title="Reddit" alt="Reddit" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/Reddit_squircle.png" height="50"/></a>
-  <a href="https://www.github.com/Lemkinator" target="_blank" rel="noreferrer"><img title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/lemkinator/lemkinator/output/GitHub_squircle.png" height="50"/></a>
+  <a href="https://games.app.goo.gl/RjbHduvbNJRRpEhr8" target="_blank" rel="noreferrer"><img title="Google Play Store" alt="Google Play Store" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Google_Play_Store_squircle.png" height="50"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=4759149701353957861" target="_blank" rel="noreferrer"><img title="Google Play Spiele" alt="Google Play Spiele" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Google_Play_Spiele_squircle.png" height="50"/></a>
+  <a href="https://www.youtube.com/@leonardlemke" target="_blank" rel="noreferrer"><img title="YouTube" alt="YouTube" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/YouTube_squircle.png" height="50"/></a>
+  <a href="https://www.twitch.tv/lemkinator5" target="_blank" rel="noreferrer"><img title="Twitch" alt="Twitch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Twitch_squircle.png" height="50"/></a>
+  <a href="https://discord.com/users/lemkinator5" target="_blank" rel="noreferrer"><img title="Discord" alt="Discord" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Discord_squircle.png" height="50"/></a>
+  <a href="https://www.instagram.com/lemkinator5/" target="_blank" rel="noreferrer"><img title="Instagram" alt="Instagram" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Instagram_squircle.png" height="50"/></a>
+  <a href="https://www.linkedin.com/in/leonard-lemke-201029238" target="_blank" rel="noreferrer"><img title="LinkedIn" alt="LinkedIn" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/LinkedIn_squircle.png" height="50"/></a>
+  <a href="https://www.twitter.com/lemkinator" target="_blank" rel="noreferrer"><img title="Twitter" alt="Twitter" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Twitter_squircle.png" height="50"/></a>
+  <a href="https://www.paypal.me/lemkinator" target="_blank" rel="noreferrer"><img title="PayPal" alt="PayPal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/PayPal_squircle.png" height="50"/></a>
+  <a href="https://www.reddit.com/user/Lemkinator5" target="_blank" rel="noreferrer"><img title="Reddit" alt="Reddit" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Reddit_squircle.png" height="50"/></a>
+  <a href="https://www.github.com/Lemkinator" target="_blank" rel="noreferrer"><img title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/GitHub_squircle.png" height="50"/></a>
   <a href="https://www.buymeacoffee.com/leonardlemke" target="_blank" rel="noreferrer"><img title="Buy Me a Coffee" alt="Buy Me a Coffee"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" /></a>
 </div>
 
