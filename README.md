@@ -39,8 +39,8 @@
 ### Links
 
 <div>
-  <a href="https://games.app.goo.gl/RjbHduvbNJRRpEhr8" target="_blank" rel="noreferrer"><img title="Google Play Store" alt="Google Play Store" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Google_Play_Store_squircle.png" height="50"/></a>
-  <a href="https://play.google.com/store/apps/dev?id=4759149701353957861" target="_blank" rel="noreferrer"><img title="Google Play Spiele" alt="Google Play Spiele" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Google_Play_Spiele_squircle.png" height="50"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=4759149701353957861" target="_blank" rel="noreferrer"><img title="Google Play Store" alt="Google Play Store" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Google_Play_Store_squircle.png" height="50"/></a>
+  <a href="https://games.app.goo.gl/RjbHduvbNJRRpEhr8" target="_blank" rel="noreferrer"><img title="Google Play Spiele" alt="Google Play Spiele" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Google_Play_Spiele_squircle.png" height="50"/></a>
   <a href="https://www.youtube.com/@leonardlemke" target="_blank" rel="noreferrer"><img title="YouTube" alt="YouTube" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/YouTube_squircle.png" height="50"/></a>
   <a href="https://www.twitch.tv/lemkinator5" target="_blank" rel="noreferrer"><img title="Twitch" alt="Twitch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Twitch_squircle.png" height="50"/></a>
   <a href="https://discord.com/users/lemkinator5" target="_blank" rel="noreferrer"><img title="Discord" alt="Discord" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Discord_squircle.png" height="50"/></a>
