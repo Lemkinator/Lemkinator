@@ -73,4 +73,4 @@
 
 <br><hr>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Lemkinator/Sudoku,Lemkinator/Studiportal,Lemkinator/NAK-Buch,Lemkinator/OneUI-Sample-App&type=Date)](https://star-history.com/#Lemkinator/Sudoku&Lemkinator/Studiportal&Lemkinator/NAK-Buch&Lemkinator/OneUI-Sample-App&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Lemkinator/Sudoku,Lemkinator/Studiportal,Lemkinator/NAK-Buch,Lemkinator/OneUI-Sample-App,Lemkinator/Lemkinator&type=Date)](https://star-history.com/#Lemkinator/Sudoku&Lemkinator/Studiportal&Lemkinator/NAK-Buch&Lemkinator/OneUI-Sample-App&Lemkinator/Lemkinator&Date)
