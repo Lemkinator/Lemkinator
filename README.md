@@ -70,3 +70,7 @@
   <a href="https://github.com/Lemkinator/studiportal"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=studiportal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/Lemkinator/nak-buch"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=nak-buch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
+
+<br><hr>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Lemkinator/Sudoku,Lemkinator/Studiportal,Lemkinator/NAK-Buch,Lemkinator/OneUI-Sample-App&type=Date)](https://star-history.com/#Lemkinator/Sudoku&Lemkinator/Studiportal&Lemkinator/NAK-Buch&Lemkinator/OneUI-Sample-App&Date)
