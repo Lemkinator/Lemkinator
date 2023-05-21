@@ -4,7 +4,7 @@
 *   🌍  Trossingen
 *   🖥️  Website: [www.leonard-lemke.com](https://leonard-lemke.com)
 *   ✉️  Contact: [leo@leonard-lemke.com](mailto:leo@leonard-lemke.com)
-*   🚀  Currently working on: [Portfolio](http://github.com/Lemkinator/portfolio)
+*   🚀  Currently working on: [NAK Buch Lite](https://github.com/Lemkinator/nakbuch_lite)
 *   🧠  Learning: [Kotlin](https://kotlinlang.org/) / [Dart](https://dart.dev/)
 *   🤝  Open to collaborating on interesting Projects
 
