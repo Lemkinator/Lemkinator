@@ -8,8 +8,8 @@
 *   🧠  Learning: [Kotlin](https://kotlinlang.org/) / [Dart](https://dart.dev/)
 *   🤝  Open to collaborating on interesting Projects
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lemkinator.visitor-badge) <a href="https://www.github.com/lemkinator" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/lemkinator?logo=github" /></a>
+<a href="https://www.github.com/lemkinator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/lemkinator?logo=github" /></a>
+![](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fwww.github.com%2Flemkinator&label=Visitors%20(Total/Today)&countColor=%23f47373&style=plastic)
                   
 ### Skills 
 <p align="left">
@@ -59,7 +59,7 @@
 
 ### GitHub Stats
 
-<a href="http://www.github.com/Lemkinator"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lemkinator&theme=react-dark&hide_border=true&radius=5" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Lemkinator"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemkinator&theme=react-dark&hide_border=true&radius=5" alt="GitHub Commits Graph" /></a>
 <a href="http://www.github.com/Lemkinator"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lemkinator&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lemkinator's GitHub stats" /></a>
 <a href="http://www.github.com/Lemkinator"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemkinator&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/Lemkinator"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lemkinator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
@@ -69,9 +69,10 @@
 ### Top Repositories
 
 <div>
+  <a href="https://github.com/Lemkinator/nak-buch"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=nak-buch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/Lemkinator/sudoku"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/Lemkinator/studiportal"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=studiportal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/Lemkinator/nak-buch"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=nak-buch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/Lemkinator/oneui-sample-app"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=oneui-sample-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <br><hr>
