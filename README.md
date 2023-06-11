@@ -9,7 +9,7 @@
 *   🤝  Open to collaborating on interesting Projects
 
 <a href="https://www.github.com/lemkinator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/lemkinator?logo=github" /></a>
-![](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fwww.github.com%2Flemkinator&label=Visitors%20(Total/Today)&countColor=%23f47373&style=plastic)
+![](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fwww.github.com%2Flemkinator&label=Visitors%20(Today/Total)&countColor=%23f47373&style=plastic)
                   
 ### Skills 
 <p align="left">
