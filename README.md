@@ -36,6 +36,7 @@
   <a href="https://github.com/Lemkinator/Studiportal" target="_blank" rel="noreferrer"><img title="Studiportal - The new Studiportal app with OneUI-Design" alt="Studiportal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Studiportal_squircle.png" height="50"/></a>
   <a href="https://github.com/Lemkinator/Sudoku" target="_blank" rel="noreferrer"><img title="Sudoku - A Sudoku app with OneUI-Design." alt="Sudoku" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Sudoku_squircle.png" height="50"/></a>
   <a href="https://github.com/Lemkinator/OneUI-Sample-App" target="_blank" rel="noreferrer"><img title="OneUI Sample App" alt="OneUI Sample App" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/OneUI_Sample_App_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/OneUrl" target="_blank" rel="noreferrer"><img title="OneUrl" alt="OneUrl" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/OneUrl_squircle.png" height="50"/></a>
 </div>
 
 ### Links
@@ -73,6 +74,7 @@
   <a href="https://github.com/Lemkinator/sudoku"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/Lemkinator/studiportal"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=studiportal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/Lemkinator/oneui-sample-app"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=oneui-sample-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/Lemkinator/oneurl"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=oneurl&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <br><hr>
