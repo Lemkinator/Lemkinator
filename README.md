@@ -32,11 +32,11 @@
 
 ### Apps
 <div>
-  <a href="https://github.com/Lemkinator/NAK-Buch" target="_blank" rel="noreferrer"><img title="NAK Buch - The new non-official song book app of the New Apostolic Church." alt="NAK Buch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/NAK_Buch_squircle.png" height="50"/></a>
-  <a href="https://github.com/Lemkinator/Studiportal" target="_blank" rel="noreferrer"><img title="Studiportal - The new Studiportal app with OneUI-Design" alt="Studiportal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Studiportal_squircle.png" height="50"/></a>
-  <a href="https://github.com/Lemkinator/Sudoku" target="_blank" rel="noreferrer"><img title="Sudoku - A Sudoku app with OneUI-Design." alt="Sudoku" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Sudoku_squircle.png" height="50"/></a>
   <a href="https://github.com/Lemkinator/OneUI-Sample-App" target="_blank" rel="noreferrer"><img title="OneUI Sample App" alt="OneUI Sample App" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/OneUI_Sample_App_squircle.png" height="50"/></a>
   <a href="https://github.com/Lemkinator/OneUrl" target="_blank" rel="noreferrer"><img title="OneUrl" alt="OneUrl" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/OneUrl_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/Sudoku" target="_blank" rel="noreferrer"><img title="Sudoku - A Sudoku app with OneUI-Design." alt="Sudoku" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Sudoku_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/NAK-Buch" target="_blank" rel="noreferrer"><img title="NAK Buch - The new non-official song book app of the New Apostolic Church." alt="NAK Buch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/NAK_Buch_squircle.png" height="50"/></a>
+  <a href="https://github.com/Lemkinator/Studiportal" target="_blank" rel="noreferrer"><img title="Studiportal - The new Studiportal app with OneUI-Design" alt="Studiportal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Studiportal_squircle.png" height="50"/></a>
 </div>
 
 ### Links
