@@ -36,7 +36,7 @@
   <a href="https://github.com/Lemkinator/GetIcon" target="_blank" rel="noreferrer"><img title="Get Icon" alt="Get Icon" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/GetIcon_squircle.png" height="50"/></a>
   <a href="https://github.com/Lemkinator/OneURL" target="_blank" rel="noreferrer"><img title="One URL" alt="One URL" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/OneURL_squircle.png" height="50"/></a>
   <a href="https://github.com/Lemkinator/Sudoku" target="_blank" rel="noreferrer"><img title="Sudoku - A Sudoku app with OneUI-Design." alt="Sudoku" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Sudoku_squircle.png" height="50"/></a>
-  <a href="https://github.com/Lemkinator/NAK-Buch" target="_blank" rel="noreferrer"><img title="NAK Buch - The new non-official song book app of the New Apostolic Church." alt="NAK Buch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/NAK_Buch_squircle.png" height="50"/></a>
+  <a href="https://www.leonard-lemke.com/apps/nakbuch" target="_blank" rel="noreferrer"><img title="NAK Buch - The new non-official song book app of the New Apostolic Church." alt="NAK Buch" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/NAK_Buch_squircle.png" height="50"/></a>
   <a href="https://github.com/Lemkinator/Studiportal" target="_blank" rel="noreferrer"><img title="Studiportal - The new Studiportal app with OneUI-Design" alt="Studiportal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Studiportal_squircle.png" height="50"/></a>
 </div>
 
