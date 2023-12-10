@@ -80,5 +80,5 @@
 
 <br><hr>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App,Lemkinator/GetIcon,Lemkinator/OneURL,Lemkinator/Sudoku,Lemkinator/NAK-Buch,Lemkinator/Studiportal,Lemkinator/Lemkinator&type=Date)](https://star-history.com/#Lemkinator/OneUI-Sample-App&Lemkinator/GetIcon&Lemkinator/OneURL&Lemkinator/Sudoku&Lemkinator/NAK-Buch&Lemkinator/Studiportal&Lemkinator/Lemkinator&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App,Lemkinator/GetIcon,Lemkinator/OneURL,Lemkinator/Sudoku,Lemkinator/Studiportal,Lemkinator/Lemkinator&type=Date)](https://star-history.com/#Lemkinator/OneUI-Sample-App&Lemkinator/GetIcon&Lemkinator/OneURL&Lemkinator/Sudoku&Lemkinator/Studiportal&Lemkinator/Lemkinator&Date)
 
