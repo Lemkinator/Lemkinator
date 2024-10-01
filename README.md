@@ -64,6 +64,7 @@
 <a href="http://www.github.com/Lemkinator"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemkinator&theme=react-dark&hide_border=true&radius=5" alt="GitHub Commits Graph" /></a>
 <a href="http://www.github.com/Lemkinator"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lemkinator&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lemkinator's GitHub stats" /></a>
 <a href="http://www.github.com/Lemkinator"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemkinator&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="https://github.com/Lemkinator"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lemkinator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="https://github.com/Lemkinator"><img src="https://github-profile-trophy.vercel.app/?username=Lemkinator&theme=onedark&column=3&margin-w=20&margin-h=20" alt="Github Trophies" /></a>
 
