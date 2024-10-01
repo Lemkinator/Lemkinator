@@ -78,7 +78,11 @@
   <a href="https://github.com/Lemkinator/studiportal"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=studiportal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
-<br><hr>
+<br>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App,Lemkinator/GetIcon,Lemkinator/OneURL,Lemkinator/Sudoku,Lemkinator/Studiportal,Lemkinator/Lemkinator&type=Date)](https://star-history.com/#Lemkinator/OneUI-Sample-App&Lemkinator/GetIcon&Lemkinator/OneURL&Lemkinator/Sudoku&Lemkinator/Studiportal&Lemkinator/Lemkinator&Date)
+<picture>
+    <!--suppress HtmlUnknownTarget -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/GetIcon%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/Studiportal%2CLemkinator/Lemkinator&type=Date&theme=dark" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/GetIcon%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/Studiportal%2CLemkinator/Lemkinator&type=Date" />
+</picture>
 
