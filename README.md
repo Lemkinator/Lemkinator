@@ -83,7 +83,7 @@
 
 <picture>
     <!--suppress HtmlUnknownTarget -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/GetIcon%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/Studiportal%2CLemkinator/Lemkinator&type=Date&theme=dark" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/GetIcon%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/Studiportal%2CLemkinator/Lemkinator&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/GetIcon%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/Studiportal&type=Date&theme=dark" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/GetIcon%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/Studiportal&type=Date" />
 </picture>
 
