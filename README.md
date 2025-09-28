@@ -76,7 +76,6 @@
   <a href="https://github.com/Lemkinator/oneurl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lemkinator&repo=oneurl&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/Lemkinator/sudoku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lemkinator&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/Lemkinator/geticon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lemkinator&repo=geticon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/Lemkinator/studiportal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lemkinator&repo=studiportal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <br>
