@@ -54,7 +54,7 @@
   <a href="https://www.paypal.me/lemkinator" target="_blank" rel="noreferrer"><img title="PayPal" alt="PayPal" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/PayPal_squircle.png" height="50"/></a>
   <a href="https://www.reddit.com/user/Lemkinator5" target="_blank" rel="noreferrer"><img title="Reddit" alt="Reddit" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/Reddit_squircle.png" height="50"/></a>
   <a href="https://www.github.com/Lemkinator" target="_blank" rel="noreferrer"><img title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/lemkinator/lemkinator/icons/GitHub_squircle.png" height="50"/></a>
-  <a href="https://www.buymeacoffee.com/leonardlemke" target="_blank" rel="noreferrer"><img title="Buy Me a Coffee" alt="Buy Me a Coffee"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" /></a>
+  <a href="https://www.ko-fi.com/leonardlemke" target="_blank" rel="noreferrer"><img title="Support me on Ko-fi" alt="Support me on Ko-fi"  src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png" height="50" /></a>
 </div>
 
 ---
