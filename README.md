@@ -62,21 +62,21 @@
 ### GitHub Stats
 
 <a href="http://www.github.com/Lemkinator"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Lemkinator&theme=react-dark&hide_border=true&radius=5" alt="GitHub Commits Graph" /></a>
-<a href="http://www.github.com/Lemkinator"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lemkinator&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lemkinator's GitHub stats" /></a>
+<a href="http://www.github.com/Lemkinator"><img src="https://github-readme-stats.vercel.app/api?username=Lemkinator&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lemkinator's GitHub stats" /></a>
 <a href="http://www.github.com/Lemkinator"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemkinator&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Lemkinator"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lemkinator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Lemkinator"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemkinator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="https://github.com/Lemkinator"><img src="https://github-profile-trophy.vercel.app/?username=Lemkinator&theme=onedark&column=3&margin-w=20&margin-h=20" alt="Github Trophies" /></a>
 
 
 ### Top Repositories
 
 <div>
-  <a href="https://github.com/Lemkinator/oneui-sample-app"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=oneui-sample-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/Lemkinator/oneurl"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=oneurl&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/Lemkinator/sudoku"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/Lemkinator/geticon"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=geticon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/Lemkinator/studiportal"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Lemkinator&repo=studiportal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/Lemkinator/oneui-sample-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lemkinator&repo=oneui-sample-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/Lemkinator/oneurl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lemkinator&repo=oneurl&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/Lemkinator/sudoku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lemkinator&repo=sudoku&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/Lemkinator/geticon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lemkinator&repo=geticon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/Lemkinator/studiportal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lemkinator&repo=studiportal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <br>
@@ -85,5 +85,6 @@
     <!--suppress HtmlUnknownTarget -->
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/GetIcon%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/Studiportal&type=Date&theme=dark" />
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/GetIcon%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/Studiportal&type=Date" />
+  
 </picture>
 
