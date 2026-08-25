@@ -80,9 +80,11 @@
 
 <br>
 
-<picture>
-    <!--suppress HtmlUnknownTarget -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/GetIcon&type=Date&theme=dark" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/GetIcon&type=Date" />
-</picture>
+<a href="https://www.star-history.com/?repos=Lemkinator%2FOneUI-Sample-App%2CLemkinator%2FOneURL%2CLemkinator%2FSudoku%2CLemkinator%2FGetIcon&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/GetIcon&type=date&theme=dark&legend=top-left&sealed_token=b0C9Hve6WiHcAtJybJITxVBgjXPo77BSo5LrSKC9kEbyzZnnu7-jtEXysUhCvYDuN-GdMZwQaoQAa7uA4_rQROxtjrFm-m_uKWnWtZPzTvh35tEuOI8PD7DS3u-J8ZhmV1hOJYq4rhWIgGZRg2pqo8zVOKTjAkR0x1uapEsl1S8XcL5lJPHU_Zamf8Me" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/GetIcon&type=date&legend=top-left&sealed_token=b0C9Hve6WiHcAtJybJITxVBgjXPo77BSo5LrSKC9kEbyzZnnu7-jtEXysUhCvYDuN-GdMZwQaoQAa7uA4_rQROxtjrFm-m_uKWnWtZPzTvh35tEuOI8PD7DS3u-J8ZhmV1hOJYq4rhWIgGZRg2pqo8zVOKTjAkR0x1uapEsl1S8XcL5lJPHU_Zamf8Me" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Lemkinator/OneUI-Sample-App%2CLemkinator/OneURL%2CLemkinator/Sudoku%2CLemkinator/GetIcon&type=date&legend=top-left&sealed_token=b0C9Hve6WiHcAtJybJITxVBgjXPo77BSo5LrSKC9kEbyzZnnu7-jtEXysUhCvYDuN-GdMZwQaoQAa7uA4_rQROxtjrFm-m_uKWnWtZPzTvh35tEuOI8PD7DS3u-J8ZhmV1hOJYq4rhWIgGZRg2pqo8zVOKTjAkR0x1uapEsl1S8XcL5lJPHU_Zamf8Me" />
+ </picture>
+</a>
 
