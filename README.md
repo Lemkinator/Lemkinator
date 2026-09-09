@@ -61,11 +61,7 @@
 
 ### GitHub Stats
 
-<a href="http://www.github.com/Lemkinator"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lemkinator&theme=github_dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&border_color=1c1917" alt="Lemkinator's GitHub stats" /></a>
 <a href="http://www.github.com/Lemkinator"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lemkinator&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Lemkinator"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lemkinator&theme=github_dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&border_color=1c1917&chart_color=0891b2" alt="Top Languages" /></a>
-<a href="https://github.com/Lemkinator"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lemkinator&theme=github_dark&utcOffset=2&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&border_color=1c1917&chart_color=0891b2" alt="Productive Time" /></a>
 
 ### Top Repositories
 
